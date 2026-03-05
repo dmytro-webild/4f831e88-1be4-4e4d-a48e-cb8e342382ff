@@ -52,9 +52,9 @@ export default function LandingPage() {
             {
               imageSrc: "http://img.b2bpic.net/free-photo/worker-follows-car-checklist-fixing-tires_482257-75661.jpg",              imageAlt: "Moderne Autowerkstatt mit professionellem Equipment"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-car-service-checking-up-car_1303-32024.jpg",              imageAlt: "Wartung und Inspektion von Fahrzeugen"},
+              imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-car-service-checking-up-car_1303-32024.jpg?_wi=1",              imageAlt: "Wartung und Inspektion von Fahrzeugen"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/muscular-man-is-fixing-car-s-wheel-with-special-tool-auto-service_613910-17086.jpg",              imageAlt: "Reifenservice und Radwechsel"},
+              imageSrc: "http://img.b2bpic.net/free-photo/muscular-man-is-fixing-car-s-wheel-with-special-tool-auto-service_613910-17086.jpg?_wi=1",              imageAlt: "Reifenservice und Radwechsel"},
           ]}
           autoplayDelay={4000}
           showDimOverlay={true}
@@ -66,7 +66,7 @@ export default function LandingPage() {
           features={[
             {
               id: "1",              title: "Inspektion & Wartung",              description: "Regelmäßige Inspektionen und Wartungsarbeiten nach Herstellervorgaben zur Sicherung der Fahrzeugsicherheit und Langlebigkeit",              media: {
-                imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-car-service-checking-up-car_1303-32024.jpg",                imageAlt: "Fahrzeuginspektion und Wartung"},
+                imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-car-service-checking-up-car_1303-32024.jpg?_wi=2",                imageAlt: "Fahrzeuginspektion und Wartung"},
               items: [
                 { icon: CheckCircle, text: "Ölwechsel und Filterwechsel" },
                 { icon: CheckCircle, text: "Flüssigkeitsprüfung" },
@@ -76,7 +76,7 @@ export default function LandingPage() {
             },
             {
               id: "2",              title: "Reifenservice & Wechsel",              description: "Professioneller Reifenservice mit modernem Equipment für Sicherheit und optimale Fahzeugleistung auf Bad Neustadts Straßen",              media: {
-                imageSrc: "http://img.b2bpic.net/free-photo/muscular-man-is-fixing-car-s-wheel-with-special-tool-auto-service_613910-17086.jpg",                imageAlt: "Reifenwechsel und Service"},
+                imageSrc: "http://img.b2bpic.net/free-photo/muscular-man-is-fixing-car-s-wheel-with-special-tool-auto-service_613910-17086.jpg?_wi=2",                imageAlt: "Reifenwechsel und Service"},
               items: [
                 { icon: CheckCircle, text: "Reifenwechsel nach Saison" },
                 { icon: CheckCircle, text: "Radauswuchtung und -ausrichtung" },
@@ -147,13 +147,13 @@ export default function LandingPage() {
           testimonials={[
             {
               id: "1",              name: "Markus K.",              role: "Autobesitzer",              company: "Bad Neustadt",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport_107420-85035.jpg",              imageAlt: "Markus K. - Zufriedener Kunde"},
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport_107420-85035.jpg?_wi=1",              imageAlt: "Markus K. - Zufriedener Kunde"},
             {
               id: "2",              name: "Julia S.",              role: "Kundin",              company: "Rhön Region",              rating: 5,
               imageSrc: "http://img.b2bpic.net/free-photo/casual-smile-street-style-background-spring_1139-777.jpg",              imageAlt: "Julia S. - Zufriedene Kundin"},
             {
               id: "3",              name: "Thomas R.",              role: "Langzeitkunde",              company: "Bad Neustadt",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport_107420-85035.jpg",              imageAlt: "Thomas R. - Langzeitkunde"},
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport_107420-85035.jpg?_wi=2",              imageAlt: "Thomas R. - Langzeitkunde"},
             {
               id: "4",              name: "Daniel M.",              role: "Autobesitzer",              company: "Umgebung",              rating: 5,
               imageSrc: "http://img.b2bpic.net/free-photo/business-woman-standing_1187-1543.jpg",              imageAlt: "Daniel M. - Zufriedener Kunde"},
@@ -189,7 +189,7 @@ export default function LandingPage() {
             {
               id: "6",              title: "Wie sind Ihre Öffnungszeiten?",              content: "Montag–Freitag: 07:00–18:00 Uhr | Samstag: 08:00–13:00 Uhr | Sonntag: Geschlossen. Notfälle und Pannenhilfe sind 24/7 verfügbar."},
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/car-mechanic-car-service-checking-up-car_1303-32024.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/car-mechanic-car-service-checking-up-car_1303-32024.jpg?_wi=3"
           imageAlt="Unser Service-Team antwortet auf Ihre Fragen"
           mediaAnimation="slide-up"
           faqsAnimation="slide-up"
