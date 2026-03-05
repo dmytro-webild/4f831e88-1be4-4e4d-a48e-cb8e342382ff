@@ -54,7 +54,7 @@ export default function LandingPage() {
             {
               imageSrc: "http://img.b2bpic.net/free-photo/car-mechanic-car-service-checking-up-car_1303-32024.jpg?_wi=1",              imageAlt: "Wartung und Inspektion von Fahrzeugen"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/muscular-man-is-fixing-car-s-wheel-with-special-tool-auto-service_613910-17086.jpg?_wi=1",              imageAlt: "Reifenservice und Radwechsel"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AWrkCz1wk5NGGLVqnhvdrqERHk/tmp/ein-mann-in-einer-autowerkstatt-der-in-d-1772723852275-005fa5d1.png",              imageAlt: "Reifenservice und Radwechsel"},
           ]}
           autoplayDelay={4000}
           showDimOverlay={true}
