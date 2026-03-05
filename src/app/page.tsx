@@ -9,7 +9,6 @@ import MetricCardSeven from "@/components/sections/metrics/MetricCardSeven";
 import TestimonialCardSixteen from "@/components/sections/testimonial/TestimonialCardSixteen";
 import FaqSplitMedia from "@/components/sections/faq/FaqSplitMedia";
 import ContactCTA from "@/components/sections/contact/ContactCTA";
-import FooterCard from "@/components/sections/footer/FooterCard";
 import { CheckCircle, Facebook, HelpCircle, Phone, Shield, Smartphone, Star, Wrench } from "lucide-react";
 
 export default function LandingPage() {
@@ -215,17 +214,6 @@ export default function LandingPage() {
           ]}
           background={{ variant: "radial-gradient" }}
           useInvertedBackground={true}
-        />
-      </div>
-
-      <div id="footer" data-section="footer">
-        <FooterCard
-          logoText="AutoService Rhön"
-          copyrightText="© 2025 AutoService Rhön | Industriestraße 8, 97616 Bad Neustadt | 09771 123456"
-          socialLinks={[
-            { icon: Facebook, href: "https://facebook.com", ariaLabel: "Folgen Sie uns auf Facebook" },
-            { icon: Smartphone, href: "tel:09771123456", ariaLabel: "Rufen Sie uns an" },
-          ]}
         />
       </div>
     </ThemeProvider>
